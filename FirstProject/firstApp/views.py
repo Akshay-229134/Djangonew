@@ -3,7 +3,7 @@ from django.http import JsonResponse
 from firstApp.models import Employee,Student
 from rest_framework.views import APIView
 
-# Create your views here....123
+# Create your views here....1234
 # JsonResponse for serialization
 def employeeView(request):
     emp={
